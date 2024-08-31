@@ -213,7 +213,7 @@ button {
 }
 
 .c-slider__btn::after {
-    background-image: url("../img/icons/play.svg");
+    background-image: url("../images/play.svg");
     background-repeat: no-repeat;
     background-size: 12px;
     background-position: center;
@@ -400,7 +400,7 @@ button {
 }
 
 .c-slot.popular.lazyloaded::before {
-    background-image: url(../img/icons/popular.svg)
+    background-image: url(../images/popular.svg)
 }
 
 .c-slot.popular::before {
@@ -621,7 +621,7 @@ button {
 }
 
 .c-nav__sign-up::after {
-    background-image: url(../img/icons/profile-plus.svg)
+    background-image: url(../images/profile-plus.svg)
 }
 
 .c-nav__sign-in {
@@ -630,7 +630,7 @@ button {
 }
 
 .c-nav__sign-in::after {
-    background-image: url(../img/icons/profile.svg)
+    background-image: url(../images/profile.svg)
 }
 
 .c-nav__sign-up,.c-nav__sign-in {
@@ -935,7 +935,7 @@ button {
 }
 
 .c-footer__accordion.lazyloaded::after {
-    background-image: url(../img/icons/footer/down-arrow.svg)
+    background-image: url(../images/footer/down-arrow.svg)
 }
 
 .c-footer__accordion::after {
@@ -1326,7 +1326,7 @@ button {
     }
 
     .c-nav__item--diamond::before {
-        background: url(../img/icons/diamond.svg);
+        background: url(../images/diamond.svg);
         background-size: contain;
         background-repeat: no-repeat;
         background-position: center;
